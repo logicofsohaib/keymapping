@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Stranger Things",
+    "imageUrl": "https://images.pexels.com/photos/17806066/pexels-photo-17806066/free-photo-of-sunset-sunlight-over-angel-of-independence-in-mexico.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "A thrilling sci-fi series with supernatural elements.",
+    "author": "Duffer Brothers",
+    "date": "July 15, 2016"
+  },
+  {
+    "title": "The Crown",
+    "imageUrl": "https://images.pexels.com/photos/19560944/pexels-photo-19560944/free-photo-of-pensive-woman-sitting-on-corridor.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "A historical drama about the reign of Queen Elizabeth II.",
+    "author": "Peter Morgan",
+    "date": "November 4, 2016"
+  },
+  {
+    "title": "Narcos",
+    "imageUrl": "https://images.pexels.com/photos/17889085/pexels-photo-17889085/free-photo-of-glasses-on-sunlit-table.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "A crime drama series that explores the rise and fall of drug cartels.",
+    "author": "Chris Brancato, Carlo Bernard, Doug Miro",
+    "date": "August 28, 2015"
+  },
+  {
+    "title": "Black Mirror",
+    "imageUrl": "https://images.pexels.com/photos/18515836/pexels-photo-18515836/free-photo-of-portrait-of-a-starling-standing-outdoors.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "An anthology series that explores the dark side of technology.",
+    "author": "Charlie Brooker",
+    "date": "December 4, 2011"
+  },
+  {
+    "title": "Money Heist",
+    "imageUrl": "https://images.pexels.com/photos/8125318/pexels-photo-8125318.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "A Spanish heist crime drama series.",
+    "author": "Álex Pina",
+    "date": "May 2, 2017"
+  },
+  {
+    "title": "Ozark",
+    "imageUrl": "https://images.pexels.com/photos/16453280/pexels-photo-16453280/free-photo-of-wild-eagle-sitting-on-tree-branch.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "A crime drama series about a financial planner turned money launderer.",
+    "author": "Bill Dubuque, Mark Williams",
+    "date": "July 21, 2017"
+  }
+]
