@@ -1,6 +1,11 @@
 import React from 'react';
 
 export default function Login() {
+
+  useEffect(()=>{
+awsedrf
+  },[toggle])
+  
   return (
     <>
       <div className="flex justify-center mb-2 mt-10 items-center h-fit bg-blue-20">
